@@ -1,1 +1,0 @@
-int Find_Supervisor_Num(int student_num, int main, int sub);
