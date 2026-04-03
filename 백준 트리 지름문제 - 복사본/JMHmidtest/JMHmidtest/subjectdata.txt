@@ -1,3 +1,0 @@
-Math lee 401class 3
-JAVA hong 402class 4
-c++ park 403class 2

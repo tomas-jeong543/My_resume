@@ -1,0 +1,1 @@
+int* Reurn_Leftover_result(int* money, int c);
