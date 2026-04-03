@@ -1,0 +1,1 @@
+int FindMin(int* numinfo, int* calinfo, int* calsequence, int size, int symbol_num);
