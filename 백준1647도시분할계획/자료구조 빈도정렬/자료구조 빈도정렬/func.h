@@ -1,0 +1,1 @@
+int* Sorted_Upper(int* num, int size);
