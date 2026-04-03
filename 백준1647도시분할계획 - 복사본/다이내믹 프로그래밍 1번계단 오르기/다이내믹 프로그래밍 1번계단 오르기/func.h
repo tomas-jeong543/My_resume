@@ -1,0 +1,1 @@
+int Find_Max_Score(int* stair_score, int size);
