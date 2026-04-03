@@ -1,0 +1,15 @@
+#pragma once
+class PointClass
+{
+private:
+	int x;
+	int y;
+public:
+	PointClass(int x, int y) {
+		this->x = x;
+		this->y = y;
+	}
+	~PointClass() {};
+
+
+};
